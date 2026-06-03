@@ -1,0 +1,31 @@
+# Tiến độ thực hiện dự án
+
+## 05/05/2025
+- Khởi tạo ý tưởng đề tài website bán trà sữa
+- Tìm hiểu mô hình ASP.NET MVC
+- Phân tích các chức năng cần có của hệ thống
+- Tham khảo giao diện các website bán đồ uống
+
+## 08/05/2025
+- Thiết kế sơ đồ cơ sở dữ liệu
+- Tạo các bảng sản phẩm, danh mục, tài khoản, đơn hàng
+- Thiết lập mối quan hệ giữa các bảng
+- Chuẩn bị dữ liệu mẫu
+
+## 12/05/2025
+- Khởi tạo project ASP.NET MVC
+- Cấu hình kết nối SQL Server
+- Tạo Models theo database
+- Cài đặt Entity Framework
+
+## 15/05/2025
+- Xây dựng giao diện trang chủ
+- Thiết kế menu và footer
+- Hiển thị danh sách sản phẩm từ database
+- Hoàn thiện layout chung cho website
+
+## 18/05/2025
+- Xây dựng chức năng chi tiết sản phẩm
+- Thêm sản phẩm vào giỏ hàng
+- Cập nhật số lượng sản phẩm trong giỏ hàng
+- Tính tổng tiền đơn hàng
