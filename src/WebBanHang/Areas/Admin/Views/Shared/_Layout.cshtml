@@ -315,7 +315,7 @@
             <li class="@(Request.Url.AbsolutePath.Contains("HoaDon") ? "active" : "")">
                 <a href="@Url.Action("HoaDon", "HoaDon", new { area = "Admin" })">Hóa đơn</a>
             </li>
-            <li><a href="@Url.Action("Logout", "Login")">Đăng xuất</a></li>
+            <li><a href="/Login/Logout">Đăng xuất</a></li>
         </ul>
 
     </div>
@@ -366,7 +366,9 @@
                     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdown">
                         <li><a class="dropdown-item" href="#">Profile</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="@Url.Action("Logout", "Login")">Logout</a></li>
+                        <li>
+                            <a class="dropdown-item" href="/Login/Logout">Logout</a>
+                        </li>
                     </ul>
                 </li>
             </ul>
