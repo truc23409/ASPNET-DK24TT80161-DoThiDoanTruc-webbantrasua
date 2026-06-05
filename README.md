@@ -77,6 +77,9 @@
 - Quản lý đơn hàng
 - Quản lý tài khoản
 
+- Tài khoản khách hàng: nhuhoa / 1
+- Tài khoản admin: dotruc / 1
+
 # Thành viên thực hiện
 - Đỗ Thị Đoan Trúc
 - Nguyễn Thị Như Hoa
