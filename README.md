@@ -1,7 +1,5 @@
 ## ASPNET-DK24TT80161-DoThiDoanTruc-webbantrasua
 
-Website Bán Trà Sữa
-
 Đây là đồ án chuyên đề môn ASP.NET của nhóm em với đề tài xây dựng website bán trà sữa. Thông qua đề tài này, em muốn vận dụng những kiến thức đã học về ASP.NET MVC để tạo ra một website bán hàng cơ bản.
 
 ## Mục đích thực hiện
@@ -23,10 +21,10 @@ Website Bán Trà Sữa
 - Nhấn F5 để chạy chương trình.
 
 ## Sinh viên  thực hiện
- Đỗ Thị Đoan Trúc
- Nguyễn Thị Như Hoa      
-Lớp: DK24TT80161
-Môn học: Chuyên đề ASP.NET
+- Đỗ Thị Đoan Trúc
+- Nguyễn Thị Như Hoa      
+- Lớp: DK24TT80161
+- Môn học: Chuyên đề ASP.NET
 
 ## Tiến độ thực hiện
 - 15-18/5/2026: Tìm hiểu đề tài,khảo sát các website bán trà sữa tương tự
