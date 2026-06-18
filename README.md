@@ -46,4 +46,11 @@ Nâng cao tính bảo mật của hệ thống.
       
 Lớp: DK24TT80161
 Môn học: Chuyên đề ASP.NET
-Thời gian thực hiện: 13/05/2026 - 20/06/2026
+#Tiến độ thực hiện
+15-18/5/2026: Tìm hiểu đề tài,khảo sát các website bán trà sữa tương tự
+19-24/5/2026: Nghiên cứu Asp.net MVC, C#, SQL server
+25-28/5/2026: Thiết kế cơ sở dữ liệu
+29-5 đến 4/6/2026: Xây dựng chức năng chính của website như chi tiết sản phẩm,danh mục, giỏ hàng
+5-15/6/2026 : Kiểm tra, chạy thử demo, sửa lỗi
+16-20/6/2026: Viết và hoàn thiện các chương của báo cáo, chụp hình minh họa kết quả thực hiện 
+
