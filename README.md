@@ -27,10 +27,10 @@
 - Môn học: Chuyên đề ASP.NET
 
 ## Tiến độ thực hiện
-- 15-18/5/2026: Tìm hiểu đề tài,khảo sát các website bán trà sữa tương tự
-- 19-24/5/2026: Nghiên cứu Asp.net MVC, C#, SQL server
-- 25-28/5/2026: Thiết kế cơ sở dữ liệu
-- 29-5 đến 4/6/2026: Xây dựng chức năng chính của website như chi tiết sản phẩm,danh mục, giỏ hàng
-- 5-15/6/2026 : Kiểm tra, chạy thử demo, sửa lỗi
-- 16-20/6/2026: Viết và hoàn thiện các chương của báo cáo, chụp hình minh họa kết quả thực hiện 
+- 15-18/5/2026: Tìm hiểu đề tài,khảo sát các website bán trà sữa tương tự.
+- 19-24/5/2026: Nghiên cứu Asp.net MVC, C#, SQL server.
+- 25-28/5/2026: Thiết kế cơ sở dữ liệu.
+- 29-5 đến 4/6/2026: Xây dựng chức năng chính của website như chi tiết sản phẩm,danh mục, giỏ hàng.
+- 5-15/6/2026 : Kiểm tra, chạy thử demo, sửa lỗi.
+- 16-23/6/2026: Viết và hoàn thiện các chương của báo cáo, chụp hình minh họa kết quả thực hiện. 
 
