@@ -2,7 +2,7 @@
 
 Tên đề tài: Xây dựng Website bán hàng bằng ASP.NET MVC
 
-Sinh viên thực hiện: Đỗ Thị Đoan Trúc
+Sinh viên thực hiện: Đỗ Thị Đoan Trúc, Nguyễn Thị Như Hoa
 
 ## Công việc đã thực hiện
 Tìm hiểu công nghệ ASP.NET MVC.
