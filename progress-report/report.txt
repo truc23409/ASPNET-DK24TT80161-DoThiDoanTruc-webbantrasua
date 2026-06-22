@@ -4,22 +4,39 @@ Tên đề tài: Xây dựng Website bán hàng bằng ASP.NET MVC
 
 Sinh viên thực hiện: Đỗ Thị Đoan Trúc, Nguyễn Thị Như Hoa
 
-## Công việc đã thực hiện
-Tìm hiểu công nghệ ASP.NET MVC.
-Thiết kế cơ sở dữ liệu cho website.
-Xây dựng giao diện trang chủ.
-Xây dựng chức năng đăng ký tài khoản.
+## 15 đến 18/5/2026
+
+Tìm hiểu yêu cầu đồ án.
+Khảo sát các website tương tự.
+Xác định chức năng cần xây dựng.
+
+## 19 đến 28/5/2026
+
+Nghiên cứu ASP.NET MVC.
+Thiết kế cơ sở dữ liệu.
+Xây dựng sơ đồ Use Case.
+
+## 29 đến 4/6/2026
+
+Tạo dự án ASP.NET MVC.
+Thiết kế giao diện trang chủ.
+Tạo các Model và Database.
+
 Xây dựng chức năng đăng nhập.
 Xây dựng chức năng quản lý sản phẩm.
-Xây dựng chức năng giỏ hàng và thanh toán.
 
-## Công việc đang thực hiện
-Kiểm tra và sửa các lỗi phát sinh.
-Hoàn thiện giao diện người dùng.
-Hoàn thiện báo cáo đồ án.
+## 5 đến 15/6/2026
 
+Chạy demo, kiểm tra và sửa lỗi chương trình.
 
-## Đánh giá tiến độ
+## 16 đến 23/6/2026
 
-Đến thời điểm hiện tại, các chức năng chính của website đã được xây dựng và chạy thử thành công. Trong thời gian tới sẽ tiếp tục hoàn thiện giao diện, kiểm tra lỗi và hoàn thành báo cáo đồ án.
+Hoàn thiện giao diện.
+Kiểm thử chương trình.
+Cập nhật báo cáo đồ án.
 
+Kết quả hiện tại
+
+Hoàn thành cơ sở dữ liệu.
+Hoàn thành giao diện cơ bản.
+Hoàn thành một số chức năng chính của hệ thống.
