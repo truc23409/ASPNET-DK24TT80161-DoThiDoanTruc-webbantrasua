@@ -18,10 +18,6 @@ Kiểm tra và sửa các lỗi phát sinh.
 Hoàn thiện giao diện người dùng.
 Hoàn thiện báo cáo đồ án.
 
-## Kế hoạch thực hiện
-Bổ sung và hoàn thiện các chức năng còn thiếu.
-Kiểm thử hệ thống.
-Hoàn thành báo cáo và chuẩn bị bảo vệ đồ án.
 
 ## Đánh giá tiến độ
 
